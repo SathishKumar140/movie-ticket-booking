@@ -1,0 +1,19 @@
+ul.tabs 
+{
+	margin:0px;
+    width: 600px;
+}
+
+ul.tabs li {
+	float:left;
+	margin-bottom:-1px;
+	height:150px;
+    overflow:hidden;
+}
+.tabs_contents 
+{	
+    overflow: hidden;
+	width: 500px;
+}
+
+
